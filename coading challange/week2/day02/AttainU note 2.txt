@@ -1,0 +1,12 @@
+Write the berief description of all the below commonds
+
+git pull - this commomd is used to bring and download content from a remote repository
+git push - This commond is used to upload a local repository to a remote repository 
+git log - This commond is used to display all the commit histiry in a repository history 
+git status -This coomond is to so all the working directory and staging area 
+git commit -this commond is used to capture a snapshot of the project currentlty staged or changed 
+git init - it is used to creat a new repository
+git clone -git clone commond were that commond that were used to creat the clone of targets repository
+git checkout -it deferentiate the branch that was created by git branch 
+mkdir - this is used to creat a new directory in your system 
+ls-a -it were used to list all detail of the working directory
